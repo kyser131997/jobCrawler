@@ -1,0 +1,525 @@
+{
+  "hits": [
+    {
+      "salary_maximum": null,
+      "salary_yearly_minimum": null,
+      "has_benefits": true,
+      "language": "fr",
+      "key_missions": [
+        "Travailler en proximit\u00e9 avec les m\u00e9tiers pour comprendre leurs besoins en termes de recherches et d\u2019utilisation de data et d\u2019analytique.",
+        "Identifier et d\u00e9velopper des marts g\u00e9n\u00e9riques garantissant simplicit\u00e9, performance et qualit\u00e9s des donn\u00e9es pour les utilisateurs m\u00e9tiers.",
+        "Automatiser l\u2019alimentation de ces marts en suivant les bonnes pratiques de d\u00e9veloppement."
+      ],
+      "salary_currency": null,
+      "has_education_level": false,
+      "benefits": [
+        "Salle d\u2019allaitement",
+        "Formation sur les biais inconscients",
+        "RTT / Jour de repos",
+        "Prime de cooptation",
+        "Plan d\u2019achat d\u2019actions / BSPCE / Stock options",
+        "Subventions CSE (Sport, Culture,...)",
+        "Team building",
+        "Afterworks, D\u00e9jeuners d'\u00e9quipe, etc.",
+        "Plan de d\u00e9veloppement professionnel",
+        "Solution de pr\u00e9vention sant\u00e9 mentale",
+        "Forfait mobilit\u00e9 durable"
+      ],
+      "salary_minimum": null,
+      "has_remote": true,
+      "organization": {
+        "name": "Exotec",
+        "description": "Do you know how many kilometers an order picker walks in a day? 15 kilometers. That\u2019s 15 kilometers in a gigantic warehouse just to find the 2 items you ordered on the internet during your lunch break.\r\n\r\nBy applying the most advanced robotic technologies to logistics, Exotec has designed an ultra-innovative system to optimize order preparation.\r\nWith already several hundred 3D moving robots in operations, Exotec has revolutionized the way companies organize their warehouses and logistics flows.\r\n\r\nExotec\u2019s agile solution allows them to keep up with business growth by simply adding robots. No more 20-year investments in heavy systems that are obsolete after 5 years.\r\n",
+        "reference": "GmMwp3A",
+        "labels": [
+          "french-tech-2030",
+          "great-place-to-work"
+        ],
+        "summary": "Syst\u00e8me robotis\u00e9 pour la pr\u00e9paration de commande en entrep\u00f4t.",
+        "profile_type": "standard",
+        "slug": "exotec",
+        "logo": {
+          "url": "https://cdn-images.welcometothejungle.com/X_Mu5ebdKXnanFpTx4nXaYvDoMzXsM5Rvv5XUWGQWW8/rs:auto:400::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9vcmdhbml6YXRpb24vbG9nby8yOTgwLzE0OTg2My84NTQ0ZTk0MS1kY2Y1LTRiNjAtYTk3Ny1iYTc1N2E5OTE0NjAucG5n",
+          "thumb": {
+            "url": "https://cdn-images.welcometothejungle.com/3RzyfNkUJGHxjFfVAYppg88iPjbcWhdUKxazY1B-w3U/rs:auto:70::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9vcmdhbml6YXRpb24vbG9nby8yOTgwLzE0OTg2My84NTQ0ZTk0MS1kY2Y1LTRiNjAtYTk3Ny1iYTc1N2E5OTE0NjAucG5n"
+          }
+        },
+        "nb_employees": 1000,
+        "creation_year": 2015,
+        "cover_image": {
+          "small": {
+            "url": "https://cdn-images.welcometothejungle.com/KdykO7my-OJHvA0uaoqsAkZpZRX6r0MvEriXSMXbvhE/rs:auto:640::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy93ZWJzaXRlX29yZ2FuaXphdGlvbi9jb3Zlcl9pbWFnZS93dHRqX2ZyL2ZyLWZmYjY5YmRiLTgzYWUtNDM4YS1hMjQyLTI1ZjAzMjVkM2MzNy5qcGc"
+          },
+          "url": "https://cdn-images.welcometothejungle.com/twuAgidKlCC7QDndHAgxuJvxJdogznzfcEon0HJe83A/rs:auto:2000:450:/g:fp:0:0.42/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy93ZWJzaXRlX29yZ2FuaXphdGlvbi9jb3Zlcl9pbWFnZS93dHRqX2ZyL2ZyLWZmYjY5YmRiLTgzYWUtNDM4YS1hMjQyLTI1ZjAzMjVkM2MzNy5qcGc",
+          "medium": {
+            "url": "https://cdn-images.welcometothejungle.com/rG07vhlPOxE837rhuaHUyDjgEyb98cjk1Hbah_XnAiE/rs:auto:900::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy93ZWJzaXRlX29yZ2FuaXphdGlvbi9jb3Zlcl9pbWFnZS93dHRqX2ZyL2ZyLWZmYjY5YmRiLTgzYWUtNDM4YS1hMjQyLTI1ZjAzMjVkM2MzNy5qcGc"
+          },
+          "large": {
+            "url": "https://cdn-images.welcometothejungle.com/Bhrldhz4Z4S-0qDKg8rPXKC8meJ1stpkM2mcMQlZ5Pc/rs:auto:1500::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy93ZWJzaXRlX29yZ2FuaXphdGlvbi9jb3Zlcl9pbWFnZS93dHRqX2ZyL2ZyLWZmYjY5YmRiLTgzYWUtNDM4YS1hMjQyLTI1ZjAzMjVkM2MzNy5qcGc"
+          },
+          "social": {
+            "url": "https://cdn-images.welcometothejungle.com/6BWIj_QW1XI1jJOfcaHieq4W1XRIxRcUgJSyLAFvtN4/rs:auto:1200:627:/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy93ZWJzaXRlX29yZ2FuaXphdGlvbi9jb3Zlcl9pbWFnZS93dHRqX2ZyL2ZyLWZmYjY5YmRiLTgzYWUtNDM4YS1hMjQyLTI1ZjAzMjVkM2MzNy5qcGc"
+          }
+        },
+        "profile_ranking": 100,
+        "commitments": [
+          "environmental-impact",
+          "social-commitment",
+          "commitment-for-employees"
+        ],
+        "equality_index": 93
+      },
+      "published_at_date": "2026-01-31",
+      "slug": "stage-data-analyst_lille_EXOTE_WKKa8d2",
+      "sectors": [
+        {
+          "name": "Logistique",
+          "reference": "logistics",
+          "parent_name": "Mobilit\u00e9 / Transport",
+          "parent_reference": "mobility-transport"
+        },
+        {
+          "name": "Robotique",
+          "reference": "robotics",
+          "parent_name": "Tech",
+          "parent_reference": "tech-1"
+        }
+      ],
+      "offices": [
+        {
+          "state": "Hauts-de-France",
+          "city": "Lille",
+          "country": "France",
+          "country_code": "FR",
+          "district": "Nord",
+          "local_district": "Nord",
+          "local_city": "Lille",
+          "local_state": "Hauts-de-France"
+        }
+      ],
+      "is_boosted": false,
+      "salary_period": null,
+      "published_at_timestamp": 1769857228,
+      "new_profession": {
+        "sub_category_reference": "data-business-intelligence-yZjY1",
+        "sub_category_name": "Donn\u00e9es/Business Intelligence",
+        "category_reference": "tech-engineering-3NjUy",
+        "category_name": "Technologie et ing\u00e9nierie",
+        "pivot_name": "Analyste de donn\u00e9es",
+        "pivot_reference": "data-analyst-3ODAx"
+      },
+      "rank_group_2": 6827,
+      "remote": "unknown",
+      "has_contract_duration": false,
+      "wk_reference": "EXOTE_WKKa8d2",
+      "experience_level_minimum": 0.0,
+      "education_level": null,
+      "published_at": "2026-01-31T11:00:28Z",
+      "contract_duration_minimum": null,
+      "rank_group_3": 6827,
+      "rank_group_1": 6828,
+      "organization_score": 75,
+      "source_stage": "production",
+      "summary": "Rejoignez Exotec, une entreprise innovante qui r\u00e9volutionne la relation entre humains et robots. En tant que stagiaire Data Analyst, vous travaillerez en \u00e9troite collaboration avec les \u00e9quipes m\u00e9tiers pour comprendre leurs besoins en mati\u00e8re de donn\u00e9es et d'analytique. Vous serez responsable de l'identification et du d\u00e9veloppement de marts de donn\u00e9es g\u00e9n\u00e9riques, de l'automatisation de leur alimentation et de la structuration de leurs m\u00e9tadonn\u00e9es. Vous contribuerez \u00e9galement \u00e0 la vie de l'\u00e9quipe en participant aux rituels agiles et aux moments de partage.",
+      "profile": null,
+      "name": "Stage - Data Analyst",
+      "contract_duration_maximum": null,
+      "has_salary_yearly_minimum": false,
+      "reference": "cb2cebaa-6f8f-45f1-824e-e34e3cb5465d",
+      "profile_ranking": 100,
+      "contract_type": "internship",
+      "has_experience_level_minimum": true,
+      "_geoloc": [
+        {
+          "lat": 50.6282,
+          "lng": 3.06881
+        }
+      ],
+      "objectID": "cb2cebaa-6f8f-45f1-824e-e34e3cb5465d",
+      "_highlightResult": {
+        "organization": {
+          "name": {
+            "value": "Exotec",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "summary": {
+            "value": "Syst\u00e8me robotis\u00e9 pour la pr\u00e9paration de commande en entrep\u00f4t.",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "offices": [
+          {
+            "state": {
+              "value": "Hauts-de-France",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "city": {
+              "value": "Lille",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "country": {
+              "value": "France",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "country_code": {
+              "value": "FR",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "district": {
+              "value": "Nord",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "local_district": {
+              "value": "Nord",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "local_city": {
+              "value": "Lille",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "local_state": {
+              "value": "Hauts-de-France",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ],
+        "new_profession": {
+          "sub_category_reference": {
+            "value": "<em>data</em>-business-intelligence-yZjY1",
+            "matchLevel": "partial",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "data"
+            ]
+          },
+          "sub_category_name": {
+            "value": "Donn\u00e9es/Business Intelligence",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "category_name": {
+            "value": "Technologie et ing\u00e9nierie",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pivot_name": {
+            "value": "Analyste de donn\u00e9es",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pivot_reference": {
+            "value": "<em>data</em>-<em>analyst</em>-3ODAx",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "data",
+              "analyst"
+            ]
+          }
+        },
+        "name": {
+          "value": "Stage - <em>Data</em> <em>Analyst</em>",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "data",
+            "analyst"
+          ]
+        }
+      }
+    },
+    {
+      "organization_score": 40,
+      "rank_group_2": 6827,
+      "has_contract_duration": false,
+      "benefits": [
+        "Employee Resource Groups (ERG)",
+        "Manifeste sur la diversit\u00e9",
+        "\u00c9quipe d\u00e9di\u00e9e \u00e0 la Diversit\u00e9 & inclusivit\u00e9",
+        "Jours de b\u00e9n\u00e9volat offerts",
+        "RTT / Jour de repos",
+        "Int\u00e9ressement",
+        "Participation",
+        "Plan d\u2019\u00e9pargne entreprise (PEE)",
+        "Plan d\u2019achat d\u2019actions / BSPCE / Stock options",
+        "Aide au d\u00e9m\u00e9nagement",
+        "Subventions CSE (Sport, Culture,...)",
+        "Prime PACS ou mariage",
+        "Compte \u00e9pargne-temps (CET)",
+        "B\u00e9n\u00e9volat",
+        "Partenariat avec des associations",
+        "Plan de d\u00e9veloppement professionnel",
+        "Mentorat",
+        "Coaching",
+        "Prime de naissance",
+        "Cong\u00e9s pour enfant malade",
+        "Solution de pr\u00e9vention sant\u00e9 mentale",
+        "Retraite compl\u00e9mentaire",
+        "Plan d\u2019\u00e9pargne pour la retraite collectif (PERCO)"
+      ],
+      "language": "fr",
+      "organization": {
+        "name": "Groupe Cr\u00e9dit Agricole",
+        "description": null,
+        "reference": "bR14OmN",
+        "labels": [],
+        "summary": "Groupe bancaire coop\u00e9ratif et mutualiste.",
+        "profile_type": "standard",
+        "slug": "groupe-credit-agricole",
+        "logo": {
+          "url": "https://cdn-images.welcometothejungle.com/aTvaBGthkD5w8gb0-fPnRfObeuEGFhBNHLTPPKDcmDo/rs:auto:400::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9vcmdhbml6YXRpb24vbG9nby83NTE1LzE0ODM0NS80ODExODU5OC00YWI4LTQzY2YtOWQ5My02N2JiNmNlNjk3YmQucG5n",
+          "thumb": {
+            "url": "https://cdn-images.welcometothejungle.com/XirLURXrVjDuU10SLPEqPAl-SiEfsqEUJ-UXHF7rQjw/rs:auto:70::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy9vcmdhbml6YXRpb24vbG9nby83NTE1LzE0ODM0NS80ODExODU5OC00YWI4LTQzY2YtOWQ5My02N2JiNmNlNjk3YmQucG5n"
+          }
+        },
+        "nb_employees": 157000,
+        "creation_year": 1885,
+        "cover_image": {
+          "small": {
+            "url": "https://cdn-images.welcometothejungle.com/mHuUH9FNn12maMKX9nqjvqPqknX4bFJRyfos4q9nbHM/rs:auto:640::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy93ZWJzaXRlX29yZ2FuaXphdGlvbi9jb3Zlcl9pbWFnZS93dHRqX2ZyL2ZyLTg3ZmNhNTc1LWMyZTYtNGYyZi04YzFmLThhN2M0NDM3YzdkNC5qcGc"
+          },
+          "url": "https://cdn-images.welcometothejungle.com/rqYkxD_g-5s6sOKfbbB2uVY3o5Ks5tC91G3HE_GNJjI/rs:auto:2000:450:/g:fp:0:0.43/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy93ZWJzaXRlX29yZ2FuaXphdGlvbi9jb3Zlcl9pbWFnZS93dHRqX2ZyL2ZyLTg3ZmNhNTc1LWMyZTYtNGYyZi04YzFmLThhN2M0NDM3YzdkNC5qcGc",
+          "medium": {
+            "url": "https://cdn-images.welcometothejungle.com/5o7A5f5mmjomFkewuSdgR-wAWbCOPIi6p64EizkddQA/rs:auto:900::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy93ZWJzaXRlX29yZ2FuaXphdGlvbi9jb3Zlcl9pbWFnZS93dHRqX2ZyL2ZyLTg3ZmNhNTc1LWMyZTYtNGYyZi04YzFmLThhN2M0NDM3YzdkNC5qcGc"
+          },
+          "large": {
+            "url": "https://cdn-images.welcometothejungle.com/vJgF6VAAHlMQatnwkQ6J3fSMVqC3WllR0FyDx6Wpxos/rs:auto:1500::/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy93ZWJzaXRlX29yZ2FuaXphdGlvbi9jb3Zlcl9pbWFnZS93dHRqX2ZyL2ZyLTg3ZmNhNTc1LWMyZTYtNGYyZi04YzFmLThhN2M0NDM3YzdkNC5qcGc"
+          },
+          "social": {
+            "url": "https://cdn-images.welcometothejungle.com/sUnhWPa62bN1JW1McKfRvDze6OqjIrlr3h0AX9fjsZg/rs:auto:1200:627:/q:85/czM6Ly93dHRqLXByb2R1Y3Rpb24vdXBsb2Fkcy93ZWJzaXRlX29yZ2FuaXphdGlvbi9jb3Zlcl9pbWFnZS93dHRqX2ZyL2ZyLTg3ZmNhNTc1LWMyZTYtNGYyZi04YzFmLThhN2M0NDM3YzdkNC5qcGc"
+          }
+        },
+        "profile_ranking": 100,
+        "commitments": [],
+        "equality_index": 93
+      },
+      "new_profession": {
+        "sub_category_reference": "data-business-intelligence-yZjY1",
+        "sub_category_name": "Donn\u00e9es/Business Intelligence",
+        "category_reference": "tech-engineering-3NjUy",
+        "category_name": "Technologie et ing\u00e9nierie",
+        "pivot_name": "Analyste de donn\u00e9es",
+        "pivot_reference": "data-analyst-3ODAx"
+      },
+      "contract_duration_minimum": null,
+      "reference": "a9946dd4-d5c0-4d50-bf20-e9968ded8560",
+      "sectors": [
+        {
+          "name": "Banque",
+          "reference": "banking-1",
+          "parent_name": "Banques / Assurances / Finance",
+          "parent_reference": "banking-insurance-finance"
+        },
+        {
+          "name": "Assurance",
+          "reference": "insurance-1",
+          "parent_name": "Banques / Assurances / Finance",
+          "parent_reference": "banking-insurance-finance"
+        },
+        {
+          "name": "Finance",
+          "reference": "finance-2",
+          "parent_name": "Banques / Assurances / Finance",
+          "parent_reference": "banking-insurance-finance"
+        }
+      ],
+      "published_at_timestamp": 1769850082,
+      "slug": "stage-charge-d-etudes-statistiques-h-f_montrouge_GCA_eYYPKmK",
+      "salary_period": null,
+      "summary": "Rejoignez le Cr\u00e9dit Agricole S.A. en tant que stagiaire charg\u00e9 d'\u00e9tudes statistiques. Vous travaillerez au sein de la Direction des \u00c9tudes \u00c9conomiques Groupe, o\u00f9 vous analyserez l'environnement \u00e9conomique, industriel, financier et bancaire. Vos missions incluront l'analyse de l'existant, l'analyse des donn\u00e9es, la mod\u00e9lisation statistique et la documentation de vos travaux. Vous devez avoir des comp\u00e9tences en analyse de donn\u00e9es, \u00e9conom\u00e9trie appliqu\u00e9e \u00e0 la finance, et \u00e9valuation des actifs financiers. Une ma\u00eetrise de Python, SAS, Excel, Word et Powerpoint est requise, ainsi qu'un anglais op\u00e9rationnel.",
+      "has_remote": true,
+      "published_at_date": "2026-01-31",
+      "remote": "punctual",
+      "salary_maximum": null,
+      "key_missions": [
+        "Analyse de l\u2019existant et revue de litt\u00e9rature acad\u00e9mique, collecte et pr\u00e9traitement des donn\u00e9es financi\u00e8res.",
+        "Identification et application des mod\u00e8les statistiques de pr\u00e9vision pertinents.",
+        "Documentation des travaux et des programmes, en veillant \u00e0 la rigueur dans l\u2019exploitation des chiffres."
+      ],
+      "salary_currency": null,
+      "source_stage": "production",
+      "has_experience_level_minimum": true,
+      "experience_level_minimum": 0.0,
+      "education_level": null,
+      "salary_minimum": null,
+      "has_salary_yearly_minimum": false,
+      "rank_group_3": 6827,
+      "contract_type": "internship",
+      "profile_ranking": 100,
+      "rank_group_1": 6828,
+      "contract_duration_maximum": null,
+      "profile": "<p>finances, \u00e9conom\u00e9trie, macro\u00e9conomie</p><br/><p style=\"text-align: justify\">Comp\u00e9tences techniques :</p><ul style=\"text-align: justify\"><li>Analyse de donn\u00e9es et Mod\u00e9lisation statistique</li><li>Econom\u00e9trie appliqu\u00e9es \u00e0 la Finance</li><li>Evaluation des actifs financiers &amp; Analyse financi\u00e8re</li></ul><p style=\"text-align: justify\">&nbsp;</p><p style=\"text-align: justify\">Comp\u00e9tences transverses :</p><ul><li style=\"text-align: justify\">Curiosit\u00e9 intellectuelle, go\u00fbt pour la recherche</li><li style=\"text-align: justify\">Autonomie dans l\u2019organisation du travail</li><li style=\"text-align: justify\">Rigueur dans l\u2019exploitation des chiffres</li><li style=\"text-align: justify\">Esprit de synth\u00e8se</li></ul><br/><p>Outils informatiques&nbsp;:</p><ul><li>Ma\u00eetrise des outils Python, SAS</li><li>Bonne ma\u00eetrise Excel, Word, Powerpoint</li><li>Connaissance de Bloomberg si possible mais non d\u00e9cisif</li></ul><br/>Anglais op\u00e9rationnel",
+      "name": "STAGE - Charg\u00e9 d'\u00e9tudes statistiques H/F",
+      "has_benefits": true,
+      "has_education_level": false,
+      "published_at": "2026-01-31T09:01:22Z",
+      "_geoloc": [
+        {
+          "lat": 48.81775,
+          "lng": 2.31667
+        }
+      ],
+      "wk_reference": "GCA_eYYPKmK",
+      "offices": [
+        {
+          "state": "Ile-de-France",
+          "city": "Montrouge",
+          "country": "France",
+          "country_code": "FR",
+          "district": "Hauts-de-Seine",
+          "local_district": "Hauts-de-Seine",
+          "local_city": "Montrouge",
+          "local_state": "\u00cele-de-France"
+        }
+      ],
+      "salary_yearly_minimum": null,
+      "is_boosted": false,
+      "objectID": "a9946dd4-d5c0-4d50-bf20-e9968ded8560",
+      "_highlightResult": {
+        "organization": {
+          "name": {
+            "value": "Groupe Cr\u00e9dit Agricole",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "summary": {
+            "value": "Groupe bancaire coop\u00e9ratif et mutualiste.",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        },
+        "new_profession": {
+          "sub_category_reference": {
+            "value": "<em>data</em>-business-intelligence-yZjY1",
+            "matchLevel": "partial",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "data"
+            ]
+          },
+          "sub_category_name": {
+            "value": "Donn\u00e9es/Business Intelligence",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "category_name": {
+            "value": "Technologie et ing\u00e9nierie",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          "pivot_name": {
+            "value": "<em>Analyst</em>e de donn\u00e9es",
+            "matchLevel": "partial",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "analyst"
+            ]
+          },
+          "pivot_reference": {
+            "value": "<em>data</em>-<em>analyst</em>-3ODAx",
+            "matchLevel": "full",
+            "fullyHighlighted": false,
+            "matchedWords": [
+              "data",
+              "analyst"
+            ]
+          }
+        },
+        "profile": {
+          "value": "<p>finances, \u00e9conom\u00e9trie, macro\u00e9conomie</p><br/><p style=\"text-align: justify\">Comp\u00e9tences techniques :</p><ul style=\"text-align: justify\"><li>Analyse de donn\u00e9es et Mod\u00e9lisation statistique</li><li>Econom\u00e9trie appliqu\u00e9es \u00e0 la Finance</li><li>Evaluation des actifs financiers &amp; Analyse financi\u00e8re</li></ul><p style=\"text-align: justify\">&nbsp;</p><p style=\"text-align: justify\">Comp\u00e9tences transverses :</p><ul><li style=\"text-align: justify\">Curiosit\u00e9 intellectuelle, go\u00fbt pour la recherche</li><li style=\"text-align: justify\">Autonomie dans l\u2019organisation du travail</li><li style=\"text-align: justify\">Rigueur dans l\u2019exploitation des chiffres</li><li style=\"text-align: justify\">Esprit de synth\u00e8se</li></ul><br/><p>Outils informatiques&nbsp;:</p><ul><li>Ma\u00eetrise des outils Python, SAS</li><li>Bonne ma\u00eetrise Excel, Word, Powerpoint</li><li>Connaissance de Bloomberg si possible mais non d\u00e9cisif</li></ul><br/>Anglais op\u00e9rationnel",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "name": {
+          "value": "STAGE - Charg\u00e9 d'\u00e9tudes statistiques H/F",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "offices": [
+          {
+            "state": {
+              "value": "Ile-de-France",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "city": {
+              "value": "Montrouge",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "country": {
+              "value": "France",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "country_code": {
+              "value": "FR",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "district": {
+              "value": "Hauts-de-Seine",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "local_district": {
+              "value": "Hauts-de-Seine",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "local_city": {
+              "value": "Montrouge",
+              "matchLevel": "none",
+              "matchedWords": []
+            },
+            "local_state": {
+              "value": "\u00cele-de-France",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "nbHits": 1333,
+  "page": 0,
+  "nbPages": 500,
+  "hitsPerPage": 2,
+  "exhaustiveNbHits": true,
+  "exhaustiveTypo": true,
+  "exhaustive": {
+    "nbHits": true,
+    "typo": true
+  },
+  "query": "data analyst",
+  "params": "query=data analyst&hitsPerPage=2",
+  "renderingContent": {},
+  "extensions": {
+    "queryCategorization": {}
+  },
+  "processingTimeMS": 6,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 18
+    },
+    "extensions": 1,
+    "fetch": {
+      "query": 1,
+      "scanning": 2,
+      "total": 4
+    },
+    "total": 6
+  },
+  "serverTimeMS": 7
+}
